@@ -1000,9 +1000,10 @@ body.dark .shadow-dark {
   box-shadow: none;
 }
 
-/* ====================================================== */
+
+
 /* ---------------  Responsive Css Stared */
-/* ====================================================== */
+
 
 @media (max-width: 1199px) {
   .section .container {
